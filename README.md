@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f2937&height=160&section=header&text=Pamidu%20Vidusaka&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Civil%20Engineering%20Undergraduate%20%E2%80%A2%20Systems%20%26%20Edge%20Developer&descSize=15&descAlignY=60" width="100%"/>
+<img src="./header.svg" width="100%" alt="Pamidu Vidusaka Header" />
 
 </div>
 
@@ -10,7 +10,7 @@
 
 I am a second-year undergraduate in the **Department of Civil Engineering**, Faculty of Engineering, **University of Sri Jayewardenepura**, Sri Lanka. Based in Matara, Sri Lanka.
 
-Alongside my academic studies in civil engineering, I build software systems, exploring distributed edge architectures, high-performance web backends, and native mobile applications as a personal technical pursuit.
+Alongside my academic coursework in civil engineering, I build software systems, exploring distributed edge architectures, high-performance backends, and mobile applications as a personal technical pursuit.
 
 - **Institution:** Faculty of Engineering, University of Sri Jayewardenepura
 - **Discipline:** Civil Engineering (2nd Year Undergraduate)
@@ -22,6 +22,21 @@ Alongside my academic studies in civil engineering, I build software systems, ex
 
 **VIRAMAYAK 2026** — *Real-time Ticketing & Verification Platform*  
 A full-stack event ticketing platform designed and deployed entirely on Cloudflare edge infrastructure. Built to manage concurrent seat reservations, generate cryptographic HMAC-signed QR passes, process automated bank slip verification workflows, and provide offline-capable Android gate scanner check-ins with sub-second latency.
+
+---
+
+### Data Science & Kaggle
+
+[![Kaggle Profile](https://img.shields.io/badge/Kaggle-pamiduvidusaka-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/pamiduvidusaka)
+[![Competitions](https://img.shields.io/badge/Competitions-Active%20Competitor-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/pamiduvidusaka/competitions)
+[![Datasets](https://img.shields.io/badge/Datasets-Contributor-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/pamiduvidusaka/datasets)
+[![Notebooks](https://img.shields.io/badge/Notebooks-Author-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/pamiduvidusaka/code)
+[![Python Data Stack](https://img.shields.io/badge/Stack-Python%20%7C%20Pandas%20%7C%20NumPy-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.kaggle.com/pamiduvidusaka)
+
+I explore exploratory data analysis, numerical modeling, and machine learning implementations on Kaggle, integrating quantitative data workflows with engineering problem-solving.
+
+<!-- [START BADGES] -->
+<!-- [END BADGES] -->
 
 ---
 
@@ -54,8 +69,8 @@ A full-stack event ticketing platform designed and deployed entirely on Cloudfla
 
 #### Observability & Tooling
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
-![Honeybadger](https://img.shields.io/badge/Honeybadger-FF5500?style=flat-square&logoColor=white)
-![Resend](https://img.shields.io/badge/Resend-000000?style=flat-square&logoColor=white)
+![Honeybadger](https://img.shields.io/badge/Honeybadger-FF5500?style=flat-square&logo=honeybadger&logoColor=white)
+![Resend](https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 
@@ -70,13 +85,16 @@ A full-stack event ticketing platform designed and deployed entirely on Cloudfla
 
 ---
 
-### Contact
+### Contact & Profiles
 
+- **Kaggle:** [kaggle.com/pamiduvidusaka](https://www.kaggle.com/pamiduvidusaka)
 - **Institutional Email:** [en121381@foe.sjp.ac.lk](mailto:en121381@foe.sjp.ac.lk)
 - **Location:** Matara, Southern Province, Sri Lanka
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,50:161b22,100:0d1117&height=80&section=footer" width="100%"/>
+
+<img src="./footer.svg" width="100%" alt="Footer" />
+
 </div>
