@@ -80,6 +80,7 @@ I explore exploratory data analysis, numerical modeling, and machine learning im
 
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=pamidu1540&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" alt="GitHub Stats" />
+  <img height="150" src="https://streak-stats.demolab.com?user=pamidu1540&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamidu1540&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
 </div>
 
