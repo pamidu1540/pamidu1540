@@ -20,8 +20,8 @@ Alongside my academic coursework in civil engineering, I build software systems,
 
 ### Featured Project
 
-**VIRAMAYAK 2026** — *Real-time Ticketing & Verification Platform*  
-A full-stack event ticketing platform designed and deployed entirely on Cloudflare edge infrastructure. Built to manage concurrent seat reservations, generate cryptographic HMAC-signed QR passes, process automated bank slip verification workflows, and provide offline-capable Android gate scanner check-ins with sub-second latency.
+**[VIRAMAYAK 2026](https://viramayak.live/)** — *Real-time Ticketing & Verification Platform*  
+A ticketing platform for the VIRAMAYAK 2026 music event. Visitors can choose a ticket category, place an order, and receive a digital pass. Organizers can review payment submissions and manage orders, while gate staff use an Android app to scan passes, including when the network is unavailable.
 
 ---
 
@@ -33,7 +33,7 @@ A full-stack event ticketing platform designed and deployed entirely on Cloudfla
 [![Notebooks](https://img.shields.io/badge/Notebooks-Author-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/pamiduvidusaka/code)
 [![Python Data Stack](https://img.shields.io/badge/Stack-Python%20%7C%20Pandas%20%7C%20NumPy-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.kaggle.com/pamiduvidusaka)
 
-I explore exploratory data analysis, numerical modeling, and machine learning implementations on Kaggle, integrating quantitative data workflows with engineering problem-solving.
+I explore data analysis, numerical modeling, and machine learning on Kaggle, applying quantitative methods to engineering problems.
 
 <!-- [START BADGES] -->
 <!-- [END BADGES] -->
@@ -89,4 +89,8 @@ I explore exploratory data analysis, numerical modeling, and machine learning im
 
 <img src="./footer.svg" width="100%" alt="Footer" />
 
+</div>
+
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=pamidu1540&label=.&color=161b22&style=flat" alt="Profile views" />
 </div>
