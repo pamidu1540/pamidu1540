@@ -3,7 +3,6 @@
 <img src="./header.svg" width="100%" alt="Pamidu Vidusaka Header" />
 
 </div>
-
 <br/>
 
 ### About Me
@@ -15,6 +14,10 @@ Alongside my academic coursework in civil engineering, I build software systems,
 - **Institution:** Faculty of Engineering, University of Sri Jayewardenepura
 - **Discipline:** Civil Engineering (2nd Year Undergraduate)
 - **Location:** Matara, Southern Province, Sri Lanka
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=pamidu1540&label=views&color=lightgrey&style=flat" alt="GitHub profile views" height="16" />
+</p>
 
 ---
 
@@ -89,8 +92,4 @@ I explore data analysis, numerical modeling, and machine learning on Kaggle, app
 
 <img src="./footer.svg" width="100%" alt="Footer" />
 
-</div>
-
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=pamidu1540&label=.&color=161b22&style=flat" alt="Profile views" />
 </div>
