@@ -16,7 +16,7 @@ Alongside my academic coursework in civil engineering, I build software systems,
 - **Location:** Matara, Southern Province, Sri Lanka
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=pamidu1540&label=views&color=lightgrey&style=flat" alt="GitHub profile views" height="16" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=pamidu1540.pamidu1540&left_text=views&left_color=30363d&right_color=6e7681&height=16" alt="GitHub profile views" height="16" />
 </p>
 
 ---
